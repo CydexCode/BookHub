@@ -1,0 +1,43 @@
+<h2>{{ title }}</h2>
+
+<form (ngSubmit)="saveChanges()" [formGroup]="form">
+  <!-- Book Name Field -->
+  <mat-form-field appearance="outline">
+    <mat-label>Book Name</mat-label>
+    <input matInput formControlName="title" />
+    <!-- Validation error message for the "title" field -->
+    <mat-error *ngIf="controls.title.hasError('required')">Book name is required.</mat-error>
+    <mat-error *ngIf="controls.title.hasError('minlength')">Book name must be at least 3 characters long.</mat-error>
+  </mat-form-field>
+
+  <!-- Author Field -->
+  <mat-form-field appearance="outline">
+    <mat-label>Author</mat-label>
+    <input matInput formControlName="author" />
+    <!-- Validation error message for the "author" field -->
+    <mat-error *ngIf="controls.author.hasError('required')">Author is required.</mat-error>
+  </mat-form-field>
+
+  <!-- ISBN Field -->
+  <mat-form-field appearance="outline">
+    <mat-label>ISBN</mat-label>
+    <input matInput formControlName="isbn" />
+    <!-- Validation error message for the "isbn" field -->
+    <mat-error *ngIf="controls.isbn.hasError('required')">ISBN is required.</mat-error>
+    <mat-error *ngIf="controls.isbn.hasError('minlength')">ISBN must be at least 5 characters long.</mat-error>
+  </mat-form-field>
+
+  <!-- Publication Date Field -->
+  <mat-form-field appearance="outline">
+    <mat-label>Publication Date</mat-label>
+    <input matInput formControlName="publicationDate" type="date" />
+    <!-- Validation error message for the "publicationDate" field -->
+    <mat-error *ngIf="controls.publicationDate.hasError('required')">Publication Date is required.</mat-error>
+  </mat-form-field>
+
+  <!-- Save and Cancel Buttons -->
+  <div class="button-group">
+    <button type="submit" mat-flat-button color="primary" [disabled]="form.invalid">Save</button>
+    <a mat-stroked-button routerLink="/books">Cancel</a>
+  </div>
+</form>

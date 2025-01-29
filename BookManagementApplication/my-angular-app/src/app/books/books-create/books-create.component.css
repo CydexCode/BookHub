@@ -1,0 +1,80 @@
+/* General Container Styling */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+  }
+  
+  /* Title Styling */
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #1976d2; /* Material Blue color for title */
+  }
+  
+  /* Form Styling */
+  mat-form-field {
+    width: 100%; /* Ensures form fields span the full width */
+    margin-bottom: 20px; /* Add spacing between fields */
+  }
+  
+  /* Save and Cancel Button Styling */
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  button[type="submit"] {
+    background-color: #1976d2; /* Blue color */
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #1565c0; /* Darker blue on hover */
+  }
+  
+  /* Cancel Button Styling */
+  a[mat-stroked-button] {
+    background-color: transparent;
+    color: #1976d2;
+    border: 2px solid #1976d2;
+    padding: 10px 20px;
+    font-size: 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  a[mat-stroked-button]:hover {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 15px;
+    }
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    button[type="submit"],
+    a[mat-stroked-button] {
+      font-size: 0.9rem;
+    }
+  }
+  

@@ -1,0 +1,89 @@
+.index-elements {
+    margin-top: 1rem;
+}
+
+.index-elements a {
+    margin-right: 1rem;
+}
+
+/* General layout */
+h2 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #1976d2; /* Material Blue color */
+  }
+  
+  a.mat-flat-button {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-transform: uppercase;
+  }
+  
+  /* Table Styles */
+  table.mat-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  table.mat-table th,
+  table.mat-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.mat-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  table.mat-table td {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  /* Hover effect for table rows */
+  table.mat-table tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  /* Action buttons */
+  button.mat-flat-button {
+    margin-left: 10px;
+  }
+  
+  /* No Books Section */
+  ng-template#noBooks {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 20px;
+  }
+  
+  /* Responsiveness for smaller screens */
+  @media (max-width: 768px) {
+    table.mat-table {
+      font-size: 0.9rem;
+    }
+  
+    table.mat-table th,
+    table.mat-table td {
+      padding: 10px 8px;
+    }
+  
+    h2 {
+      font-size: 1.8em;
+    }
+  
+    a.mat-flat-button {
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+    }
+  }
+  

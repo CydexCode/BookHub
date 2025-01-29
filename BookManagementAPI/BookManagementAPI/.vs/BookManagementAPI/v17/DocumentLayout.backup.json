@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF6F5C-0B7C-4158-96C2-94D73521F930}|BookManagement.Business\\BookManagement.Business.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.business\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CF6F5C-0B7C-4158-96C2-94D73521F930}|BookManagement.Business\\BookManagement.Business.csproj|solutionrelative:bookmanagement.business\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AEA394-DADC-409B-BA9A-663AFBD49FE3}|BookManagement.Models\\BookManagement.Models.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AEA394-DADC-409B-BA9A-663AFBD49FE3}|BookManagement.Models\\BookManagement.Models.csproj|solutionrelative:bookmanagement.models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.presentation\\bookmanagement.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.presentation\\bookmanagement.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF6F5C-0B7C-4158-96C2-94D73521F930}|BookManagement.Business\\BookManagement.Business.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.business\\bookmanagement.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20CF6F5C-0B7C-4158-96C2-94D73521F930}|BookManagement.Business\\BookManagement.Business.csproj|solutionrelative:bookmanagement.business\\bookmanagement.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|c:\\users\\sachinthana buddhika\\desktop\\new folder (2)\\bookmanagementapi\\bookmanagementapi\\bookmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CEE7510-40BB-4ED4-9325-D83C4CD4BB8D}|BookManagement.Presentation\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManagement.Business",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Business\\BookManagement.Business.csproj",
+              "RelativeDocumentMoniker": "BookManagement.Business\\BookManagement.Business.csproj",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Business\\BookManagement.Business.csproj",
+              "RelativeToolTip": "BookManagement.Business\\BookManagement.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T13:56:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement.Models\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Models\\Entities\\Book.cs",
+              "RelativeToolTip": "BookManagement.Models\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:39:50.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement.Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:38:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "BookManagement.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:59:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Program.cs*",
+              "RelativeToolTip": "BookManagement.Presentation\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:13:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManagement.Presentation",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\BookManagement.Presentation.csproj",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\BookManagement.Presentation.csproj",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\BookManagement.Presentation.csproj",
+              "RelativeToolTip": "BookManagement.Presentation\\BookManagement.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T08:53:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Business\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Business\\BookService.cs",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Business\\BookService.cs*",
+              "RelativeToolTip": "BookManagement.Business\\BookService.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:57:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241228111720_Bookstable.cs",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs",
+              "RelativeToolTip": "BookManagement.Presentation\\Migrations\\20241228111720_Bookstable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:17:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\sachinthana buddhika\\Desktop\\New folder (2)\\BookManagementAPI\\BookManagementAPI\\BookManagement.Presentation\\appsettings.json",
+              "RelativeToolTip": "BookManagement.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T13:41:35.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
